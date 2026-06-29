@@ -1,0 +1,1 @@
+A tool so you can search the rss of a desired website and can scrape the latest updates from it.

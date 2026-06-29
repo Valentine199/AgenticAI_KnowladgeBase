@@ -1,0 +1,1 @@
+Same as the other but uses FastAPI_MCP for HTTP and remote connection

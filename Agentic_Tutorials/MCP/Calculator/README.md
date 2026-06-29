@@ -1,0 +1,1 @@
+This is a Calculator example using STDIO approach and FastMCP
